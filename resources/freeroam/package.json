@@ -1,0 +1,16 @@
+{
+  "name": "freeroam",
+  "version": "1.0.0",
+  "description": "Freeroam by ExXTreMe",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "freeroam",
+    "altv"
+  ],
+  "author": "ExXTreMe",
+  "license": "ISC",
+  "type": "module"
+}

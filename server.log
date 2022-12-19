@@ -1,0 +1,34 @@
+[16:20:23] alt:V Server 13.34 (release)
+[16:20:23] Starting Test-Server on 0.0.0.0:7788
+[16:20:24] Loading resource chat
+[16:20:25] Loaded resource chat
+[16:20:25] Loading resource freeroam
+[16:20:25] Loaded resource freeroam
+[16:20:25] Loading resource noclip
+[16:20:25] Loaded resource noclip
+[16:20:25] Loading resource tuner
+[16:20:26] Loaded resource tuner
+[16:20:26] Loading resource speedometer
+[16:20:27] Loaded resource speedometer
+[16:20:27] Required server permissions:
+[16:20:27] Optional server permissions:
+[16:20:27] Starting HTTP server on 0.0.0.0:7788
+[16:20:27] Main thread started (ThreadId: 22284)
+[16:20:27] Colshape thread started (ThreadId: 18292)
+[16:20:27] EntityStreamer thread started (ThreadId: 14956)
+[16:20:27] Sync thread started (ThreadId: 16684)
+[16:20:27] Network thread started (ThreadId: 6912)
+[16:20:27] Console thread started (ThreadId: 20500)
+[16:20:27][Warning] Converted configs to new format
+[16:20:27][Warning] Server started in debug mode
+[16:20:34] Stopping resource tuner
+[16:20:34] Stopped resource tuner
+[16:20:34] Stopping resource chat
+[16:20:34] Stopping resource freeroam
+[16:20:34] Stopped resource freeroam
+[16:20:34] Stopped resource chat
+[16:20:34] Stopping resource noclip
+[16:20:34] Stopped resource noclip
+[16:20:34] Stopping resource speedometer
+[16:20:34] Stopped resource speedometer
+[16:20:34] Server shutdown
